@@ -1,0 +1,18 @@
+@charset "utf-8";
+html {
+}
+
+/* 
+
+ここはメモだよ
+複数行でも対応してますよ
+
+
+*/
+body {
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
